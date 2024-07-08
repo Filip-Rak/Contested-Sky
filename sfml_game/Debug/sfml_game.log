@@ -1,0 +1,23 @@
+﻿  Game.cpp
+C:\Users\Filip\source\repos\sfml_game - Copy\sfml_game\Game.cpp(104,57): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Filip\source\repos\sfml_game - Copy\sfml_game\Game.cpp(104,52): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Filip\source\repos\sfml_game - Copy\sfml_game\Game.cpp(104,47): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Filip\source\repos\sfml_game - Copy\sfml_game\Game.cpp(104,42): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Filip\source\repos\sfml_game - Copy\sfml_game\Game.cpp(117,57): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Filip\source\repos\sfml_game - Copy\sfml_game\Game.cpp(117,52): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Filip\source\repos\sfml_game - Copy\sfml_game\Game.cpp(117,47): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Filip\source\repos\sfml_game - Copy\sfml_game\Game.cpp(117,42): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Filip\source\repos\sfml_game - Copy\sfml_game\Game.cpp(140,20): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Filip\source\repos\sfml_game - Copy\sfml_game\Game.cpp(141,20): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Filip\source\repos\sfml_game - Copy\sfml_game\Game.cpp(156,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Filip\source\repos\sfml_game - Copy\sfml_game\Game.cpp(156,50): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Filip\source\repos\sfml_game - Copy\sfml_game\Game.cpp(156,45): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Filip\source\repos\sfml_game - Copy\sfml_game\Game.cpp(156,40): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  Targets.cpp
+C:\Users\Filip\source\repos\sfml_game - Copy\sfml_game\Targets.cpp(209,29): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Filip\source\repos\sfml_game - Copy\sfml_game\Targets.cpp(267,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Filip\source\repos\sfml_game - Copy\sfml_game\Targets.cpp(329,23): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Users\Filip\source\repos\sfml_game - Copy\sfml_game\main.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  sfml_game.vcxproj -> C:\Users\Filip\source\repos\sfml_game - Copy\Debug\sfml_game.exe

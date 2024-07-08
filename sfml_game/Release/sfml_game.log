@@ -1,0 +1,69 @@
+﻿  Game.cpp
+D:\Projects\Constested Sky\sfml_game\Game.cpp(104,57): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Game.cpp(104,52): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Game.cpp(104,47): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Game.cpp(104,42): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Game.cpp(117,57): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Game.cpp(117,52): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Game.cpp(117,47): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Game.cpp(117,42): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Game.cpp(140,20): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Game.cpp(141,20): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Game.cpp(156,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Game.cpp(156,50): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Game.cpp(156,45): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Game.cpp(156,40): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  main.cpp
+D:\Projects\Constested Sky\sfml_game\main.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Menus.cpp
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(39,17): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(40,17): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(42,63): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(42,58): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(42,53): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(42,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(43,66): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(43,61): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(43,56): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(43,51): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(50,40): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(61,64): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(61,59): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(61,54): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(61,49): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(70,48): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(90,59): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(90,54): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(90,49): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(90,44): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(91,62): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(91,57): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(91,52): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(91,47): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(99,36): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(113,63): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(113,58): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(113,53): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(113,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(114,72): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(114,65): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(114,58): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(114,51): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(122,48): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(135,39): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(143,36): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(155,63): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(155,58): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(155,53): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(155,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Menus.cpp(164,48): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Targets.cpp
+D:\Projects\Constested Sky\sfml_game\Targets.cpp(209,29): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Constested Sky\sfml_game\Targets.cpp(267,20): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\Constested Sky\sfml_game\Targets.cpp(329,23): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  330 of 339 functions (97.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  sfml_game.vcxproj -> D:\Projects\Constested Sky\Release\sfml_game.exe
