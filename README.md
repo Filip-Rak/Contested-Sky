@@ -6,7 +6,7 @@
 ![Gameplay Screenshot](extras/gameplay.png)
 
 ## Disclaimer
-This is an older project (2022), developed during my first semester. It does not reflect my current coding standards or design approach. It was my first experience with both SFML and object-oriented programming in C++.
+This is an older project (2022), developed during my first semester at AGH. It does not reflect my current coding standards or design approach. It was my first experience with both SFML and object-oriented programming in C++.
 
 ## Origin of the game
 This game was developed as a final project for the "Basics of Computer Science" class at AGH University of Cracow during my first semester.
