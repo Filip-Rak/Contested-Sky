@@ -1,7 +1,9 @@
 # Contested Sky
 
 ## Overview
-**Contested Sky** is a classic 2D fixed shooter where the player must take down as many falling paratroopers as possible from a stationary position. The game challenges your speed and precision. The game is developed using SFML (Simple and Fast Multimedia Library) and showcases a mix of gameplay elements, visuals, and sound effects including soundtrack.
+**Contested Sky** is a classic 2D fixed shooter where the player must take down as many falling paratroopers as possible from a stationary position - challenging your speed and precision. 
+
+The game is developed using SFML (Simple and Fast Multimedia Library) and showcases a mix of gameplay elements, visuals, and sound effects including soundtrack.
 
 ![Gameplay Screenshot](extras/gameplay.png)
 
