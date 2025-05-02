@@ -6,10 +6,7 @@
 ![Gameplay Screenshot](extras/gameplay.png)
 
 ## Disclaimer
-This is an older project (2022), developed during my first semester at AGH. It does not reflect my current coding standards or design approach. It was my first experience with both SFML and object-oriented programming in C++.
-
-## Origin of the game
-This game was developed as a final project for the "Basics of Computer Science" class at AGH University of Cracow during my first semester.
+This is an older project developed in 2022. It does not reflect my current coding standards or design approach. It was my first experience with both SFML and object-oriented programming in C++.
 
 ## Story
 Set in an alternate timeline where Napoleon Bonaparte successfully invades the British Isles, France becomes the dominant power in Western Europe. However, a new superpower — the Central Eurasian Empire — rises in the East, eventually conquering most of Asia.
