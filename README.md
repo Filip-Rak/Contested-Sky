@@ -5,7 +5,7 @@
 
 The game is developed using SFML (Simple and Fast Multimedia Library) and showcases a mix of gameplay elements, visuals, and sound effects including soundtrack.
 
-![Gameplay Screenshot](extras/gameplay.png)
+![Main Menu](extras/menu.png)
 
 ## Disclaimer
 This is an older project developed in 2022. It does not reflect my current coding standards or design approach. It was my first experience with both SFML and object-oriented programming in C++.
@@ -18,6 +18,8 @@ After centuries of peace, tensions reignite when the Eurasian Empire initiates a
 With the French Empire fractured and the Olive Republic under threat, the fate of Europe lies on his shoulders.
 
 ## Gameplay
+![Gameplay Screenshot](extras/gameplay.png)
+
 - **Objective:** Incapacitate as many foes as possible, survive for as long as you can with limited hearts - do not allow the airborne forces to land!
 - **Controls:**
   - Use the mouse to aim at the paratropers.
